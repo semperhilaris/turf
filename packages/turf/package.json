@@ -78,6 +78,7 @@
     "@turf/inside": "^3.7.0",
     "@turf/intersect": "^3.7.0",
     "@turf/isolines": "^3.7.0",
+    "@turf/isobands": "https://github.com/semperhilaris/turf-isobands/tarball/master",
     "@turf/kinks": "^3.7.0",
     "@turf/line-distance": "^3.7.0",
     "@turf/line-slice": "^3.7.0",

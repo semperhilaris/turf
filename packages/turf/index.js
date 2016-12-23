@@ -11,6 +11,7 @@ var helpers = require('@turf/helpers');
 var invariant = require('@turf/invariant');
 
 var turf = {
+    isobands: require('@turf/isobands'),
     isolines: require('@turf/isolines'),
     convex: require('@turf/convex'),
     within: require('@turf/within'),
